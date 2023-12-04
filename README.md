@@ -34,8 +34,15 @@
 ### Unity Engine C# Source Code </br>
  - https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Source/CoreChainManager.cs
 
-### Screenshots
-![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/1.jpg)
+### Screenshots Of Blockchain Use
+![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/00.jpg )
+![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/001.jpg )
+![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/01.jpg )
+![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/02.jpg )
+![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/020.jpg )
+</br></br>
+### Screenshots Of Game
+![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/1.jpg )
 ![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/2.jpg)
 ![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/3.jpg)
 ![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/4.jpg)
