@@ -4,16 +4,16 @@
 ## [Click here to Play Game](https://goatbetgame.vrweb3games.com/)
 
 ## Features
-* Full Game Build On
 * Practice and Real Betting Mode With Multiplayer System
-* Decentralised finance system (DeFi) with in-app items - Buy with  Balance
+* Decentralised finance system (DeFi) with in-app items - Buy with Native Balance
+* Complete Random Animal Winner Selection With Chainlink VRF Function
 * Transperent Betting System and Auto Pool Distribution On Race End
 * Player Customization and Chat System
 
 
 ## Technologies Used
 - Unity 3D Game Engine
-- Chainlink VRF, Polygon Mumbai, Avalanche Fuji, Polygon zkEVM Testnet
+- Chainlink VRF Function, Polygon Mumbai, Avalanche Fuji, Polygon zkEVM Testnet
 - Remix IDE for Solidity Programming
 - Web3 Library to Connect Unity with blockchain
 - Blender and Photoshop for UI/UX
@@ -32,7 +32,7 @@
   - Polygon Mumbai/Avalanche Fuji/Polygon zkEVM Testnet : </br>https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Source/AnimalBetRace.sol
 
 ### Unity Engine C# Source Code </br>
-https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Source/CoreChainManager.cs
+ - https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Source/CoreChainManager.cs
 
 ### Screenshots
 ![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/1.jpg)
