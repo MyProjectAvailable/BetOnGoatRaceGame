@@ -18,12 +18,20 @@
 - Blender and Photoshop for UI/UX
 
 ## Smart Contract Details
-- Smart Contract Address :  </br>
-- Smart Contract :  </br>
-- Smart Contract Source Code :  </br>
+- ### Smart Contract Address :  </br>
+  - Chainlink With Polygon Mumbai : 0x4f48219313cBED4a84D8Ae038689407dc429557a
+  - Chainlink With Avalanche Fuji : 0xFEFd566c3a04E297935Fa83E690DF9C5f1B9eE36
+  - Polygon Mumbai : 0x140773E05f38525cE6ACb7CD32de188E9C34e251
+  - Avalanche Fuji Testnet : 0x2892498bfF560Ec2Ee3acd490B5A7118d8f7BE93
+  - Polygon zkEVM Testnet : 0x2892498bfF560Ec2Ee3acd490B5A7118d8f7BE93
+ 
+
+- ### Smart Contract Source Code :  </br>
+  - Chainlink Source Code : </br>https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Source/AnimalBetRandomness.sol
+  - Polygon Mumbai/Avalanche Fuji/Polygon zkEVM Testnet : </br>https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Source/AnimalBetRace.sol
 
 ### Unity Engine C# Source Code </br>
-https://github.com/MyProjectAvailable/BetOnGoatRace_XRP/blob/main/Source/CoreChainManager.cs
+https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Source/CoreChainManager.cs
 
 ### Screenshots
 ![](https://github.com/MyProjectAvailable/BetOnGoatRaceGame/blob/main/Images/1.jpg)
